@@ -1,5 +1,0 @@
-test 2234
-<<<<<<< HEAD
-after test1
-=======
->>>>>>> 694228336b67aa2ec2ad26ee069a0db559d819b1
